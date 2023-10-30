@@ -17,7 +17,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Brain fog is part of programming</h2></summary>
   </ul>
 </div>
 
@@ -25,7 +25,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Python, SQL, PowerBI**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **to build efficient algorithms and robust data pipelines for scalable data analysis and insights**
 
 - ☁️ I've keen interest in Data Science. So, I'm learning & sharpening my skills in **Machine learning and Data visualization techniques**
 
