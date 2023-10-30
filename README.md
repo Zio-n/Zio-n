@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **to build efficient algorithms and robust data pipelines for scalable data analysis and insights**
 
-- ☁️ I've keen interest in Data Science. So, I'm learning & sharpening my skills in **Machine learning and Data visualization techniques**
+- ☁️ I have a keen interest for Data Science. So, I'm learning & sharpening my skills in **Machine learning and Data visualization techniques**
 
 - 💬 Ask me about **Python, SQL**
 
