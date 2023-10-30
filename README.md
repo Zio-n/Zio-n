@@ -44,7 +44,7 @@
 <tr border="none">
 <td width="50%" align="center">
   <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Zio-n">
   <img height="180em" src="https://personal-github-readme-stats.vercel.app/api?username=Zio-n&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180em" src="https://personal-github-readme-stats.vercel.app/api/top-langs/?username=Zio-n&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -80,7 +80,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,docker,github,html,java,js,md,postgresql,nextjs,nodejs,postman,py,pytorch,react,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,django,pytorch,tensorflow,git,c,cpp,css,discord,docker,github,html,java,js,md,postgresql,nextjs,nodejs,postman,react,tailwind,vscode,jquery,dart,powershell,stackoverflow,flutter&perline=14" />
   </a>
 </p>
 
