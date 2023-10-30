@@ -45,7 +45,7 @@
 <td width="50%" align="center">
   <p align="center">
 <a href="https://github.com/Zio-n">
-  <img height="180em" src="https://personal-github-readme-stats.vercel.app/api?username=Zio-n&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://personal-github-readme-stats.vercel.app/api?username=Zio-n&show_icons=true&theme=algolia&count_private=true&rank_icon=github&include_all_commits=true"/>
   <img height="180em" src="https://personal-github-readme-stats.vercel.app/api/top-langs/?username=Zio-n&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
