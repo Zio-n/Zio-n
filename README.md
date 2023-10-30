@@ -43,17 +43,17 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://personal-github-readme-stats.vercel.app/api?username=Zio-n&theme=dark&show_icons=true&count_private=true" />
+  <p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://personal-github-readme-stats.vercel.app/api?username=Zio-n&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://personal-github-readme-stats.vercel.app/api/top-langs/?username=Zio-n&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
   
 </td>
 
-<td width="50%" align="center">
 
-<img align="left" src="https://personal-github-readme-stats.vercel.app/api/top-langs?username=Zio-n&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
- 
-  </td>
+  
 </tr>
 </table>
 <!--- stats (end) -->
@@ -80,7 +80,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,docker,github,html,java,js,md,postgresql,nextjs,nodejs,postman,py,pytorch,react,tailwind,vscode&perline=14" />
   </a>
 </p>
 
