@@ -51,7 +51,7 @@
 
 <td width="50%" align="center">
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zio-n&hide=jupyter%20notebook&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zio-n&&theme=tokyonight)
   </td>
 </tr>
 </table>
