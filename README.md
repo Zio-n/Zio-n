@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **Python, SQL**
 
-- 📫 Feel free to reach me out **zionumoh8@gmail.com**
+- 📫 Feel free to reach out to me **zionumoh8@gmail.com**
 
 <!--Intro end-->
 
