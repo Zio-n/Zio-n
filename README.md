@@ -7,65 +7,9 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Brain fog is part of programming</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **Python, SQL, PowerBI**
-
-- 🌱 I’m currently learning **to build efficient algorithms and robust data pipelines for scalable data analysis and insights**
-
-- ☁️ I have a keen interest for Data Science. So, I'm learning & sharpening my skills in **Machine learning and Data visualization techniques**
-
-- 💬 Ask me about **Python, SQL**
-
-- 📫 Feel free to reach out to me **zionumoh8@gmail.com**
-
-<!--Intro end-->
 
 
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <p align="center">
-<a href="https://github.com/Zio-n">
-  <img height="180em" src="https://personal-github-readme-stats.vercel.app/api?username=Zio-n&show_icons=true&theme=algolia&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://personal-github-readme-stats.vercel.app/api/top-langs/?username=Zio-n&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-  
-</td>
-  
-</tr>
-
-
-
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/Zio-n" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Zio-n&theme=algolia&row=1&column=5&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
 
 
 </p>        
